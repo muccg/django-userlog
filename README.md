@@ -1,3 +1,12 @@
+# Package moved
+
+** The Django Userlog package has been moved! **
+
+The new project [Django Useraudit](https://github.com/muccg/django-useraudit) contains all the functionality of Django Userlog plus additional features.
+
+New users should use Django Useraudit, existing users are encouraged to switch to the new project as well.
+
+
 # Welcome
 
 Django Userlog is a small Django app that allow you to log basic
